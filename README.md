@@ -10,4 +10,4 @@ The following is a list of MATLAB functions implementing various random walk str
 5. rwnt.m: Random walk avoiding two previously visited nodes
 6. rwnq.m: Random walk avoiding three previously visited nodes
 7. rwlz.m: Lazy random walk with resting parameter a
-8. rw
+8. rwin.m Intermitent random walk with jump parameter a
